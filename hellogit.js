@@ -1,1 +1,1 @@
-console.log('Usando Git para añadir un segundo commit')
+console.log('Hello GitHub')
